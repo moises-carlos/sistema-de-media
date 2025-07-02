@@ -10,7 +10,7 @@ Este projeto foi desenvolvido durante a disciplina de Programação Orientada a 
 
 - Funcionalidades
 
-- strutura do Projeto
+- Estrutura do Projeto
 
 - Regras de Negócio
 
